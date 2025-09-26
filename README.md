@@ -1,5 +1,5 @@
 ### Boston House Pricing Prediction
-[Check out the project]([(https://boston-house-prices.onrender.com/)) 
+[Check out the project](https://boston-house-prices.onrender.com/) 
 
 ### Software And Tools Requirements
 
